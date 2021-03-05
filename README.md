@@ -16,7 +16,7 @@
 - Put all the images (i.e., scanned pages) in a single folder. Make sure they all have the same file type.
 - Right-click and save converter.py, and put it in the same folder that has all your images.
 - Right click > Edit with IDLE to change the settings. 
-  - In the example file, the PDF it will produce is called `output.pdf` . This can be changed to whatever you like. Also, in this example file, the it'll work if all the images are .PNGs. If you have something else (say, JPGs), change where it says `.png` to whatever your image file type is.
+  - In the example file, the PDF it will produce is called `output.pdf` . This can be changed to whatever you like. Also, in this example file, it'll work if all the images are .PNGs. If you have something else (say, JPGs), change where it says `.png` to whatever your image file type is.
 - Save and close the file. Double-click to run it.
 
 *Note: to use this, you need to have python and img2pdf installed! Install img2pdf by using the command `pip install img2pdf`*
