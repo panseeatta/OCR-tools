@@ -10,7 +10,7 @@
   - in the example file, I've sent the commands `--force-OCR`, which forces the program to redo any existing OCR, and `--optimize 3`, which shrinks the output PDF files. Other examples of commands can be found here: (https://ocrmypdf.readthedocs.io/en/latest/cookbook.html)
 - Save and close the file, then double-click to run. 
 
-*Note: to use this, you need to have OCRmyPDF installed! In-depth, full instructions are [here](https://ocrmypdf.readthedocs.io/en/v11.7.1/cookbook.html), but my simplified guide on how to install it on Windows is* [here.](https://docs.google.com/document/d/1wncAdTlP_beerZUvorlXl4SJynqmxXvgAOVV_Jqcn6E/edit?usp=sharing)
+*Note: to use this, you need to have OCRmyPDF installed! In-depth, full instructions are [here](https://ocrmypdf.readthedocs.io/en/v11.7.1/installation.html), but my simplified guide on how to install it on Windows is* [here.](https://docs.google.com/document/d/1wncAdTlP_beerZUvorlXl4SJynqmxXvgAOVV_Jqcn6E/edit?usp=sharing)
 
 **Convert a bunch of images to a PDF**
 - Put all the images (i.e., scanned pages) in a single folder. Make sure they all have the same file type.
